@@ -15,17 +15,17 @@ userdisqus:       username
 
 # Setup
 author:
-  name:           "Nombre Apellido"
-  url:            https://twitter.com/usernameTwitter
-  twitter:        usernameTwitter
+  name:           "Alberto Castelo"
+  url:            https://twitter.com/acaste10
+  twitter:        acaste10
 
 paginate:         5
 
-title:            "Título del blog"
-tagline:          "línea descriptiva"
-description:      "lema/descripcion/breve frase."
+title:            "Alberto Castelo"
+tagline:          "Artificial Intelligence Engineer"
+description:      "Separating the Signal from the Noise"
 locale:           es_es
 encoding:         utf-8
-url:              https://username.github.io
-baseurl:          https://username.github.io/  
+url:              https://AlbertoCastelo.github.io
+baseurl:          https://AlbertoCastelo.github.io/  
 google_analytics: UA-XXXXXXXXX-X
