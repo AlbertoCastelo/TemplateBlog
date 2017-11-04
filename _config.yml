@@ -11,7 +11,7 @@ version:          2.1.0
 github:           metadata
 
 repository:       username/username.github.io
-userdisqus:       username
+userdisqus:       username # gestor de comentarios
 
 # Setup
 author:

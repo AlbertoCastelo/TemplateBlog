@@ -4,8 +4,8 @@ title: Acerca de
 ---
 
 Hola!, somos XantarDev si quieres participar o apoyarnos puedes seguirnos en:
-* [Meetup](https://www.meetup.com/es-ES/XantarDev/){:target="_blank"}
-* [Twitter: @XantarDev](https://twitter.com/XantarDev){:target="_blank"}
-* [Nuestra web](http://www.xantardev.org){:target="_blank"}
+* [LinkedIn](https://www.linkedin.com/in/alberto-castelo-becerra/){:target="_blank"}
+* [Twitter: @acaste10](https://twitter.com/acaste10){:target="_blank"}
+* [GitHub](https://github.com/AlbertoCastelo){:target="_blank"}
 
 Saludos!

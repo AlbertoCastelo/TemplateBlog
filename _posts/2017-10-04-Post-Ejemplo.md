@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-title: Taller construyendo blog
-author: David Gonzalo
+title: Trial post
+author: Alberto Castelo
 comments: true
 categories: [Taller, XantarDev]
 ---
-Plantilla base de repositorio para el taller realizado por [@dagope](https://twitter.com/dagope) para la comunidad de [XantarDev](https://github.com){:target="_blank"}.
+Plantilla base de repositorio para el taller realizado por [@acaste10](https://twitter.com/acastel10) desde la comunidad de [XantarDev](https://github.com){:target="_blank"}.
 <!--break-->
 # Contenido
 <!-- TOC -->
